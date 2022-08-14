@@ -1,7 +1,7 @@
 # Car Price Prediction
 
-<p>This project takes the parameters of an used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven.</p>
-<p>It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10.</p>
+<p>This project takes the parameters of a used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven.</p>
+<p>It then predicts the possible price of the car. For example, the image below shows the predicted price.</p>
 
 Model Demo: https://car-price-predictions0.herokuapp.com/
 
