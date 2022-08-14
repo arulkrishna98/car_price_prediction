@@ -1,4 +1,4 @@
-# Car Price Predictor
+# Car Price Prediction
 
 Project link: https://car-price-predictions0.herokuapp.com/
 
