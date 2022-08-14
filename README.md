@@ -3,7 +3,7 @@
 Project link: https://car-price-predictions0.herokuapp.com/
 
 
-<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png">
+<img src="https://github.com/arulkrishna98/car_price_prediction/blob/master/demo.png">
 
 
 
@@ -11,7 +11,7 @@ Project link: https://car-price-predictions0.herokuapp.com/
 
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
 
-<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/predict.png">
+<img src="https://github.com/arulkrishna98/car_price_prediction/blob/master/predict.png">
 
 ## How to use?
 
