@@ -3,7 +3,7 @@
 Project link: https://car-price-predictions0.herokuapp.com/
 
 
-<img src="https://github.com/arulkrishna98/car_price_prediction/blob/master/demo.png">
+<img src="demo.png" alt="demo">
 
 
 
